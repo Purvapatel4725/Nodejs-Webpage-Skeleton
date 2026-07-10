@@ -16,7 +16,7 @@ Follow these steps to set up your development environment and start building you
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Purvapatel4725/Node-Webapp-Skeleton.git
+   git clone https://github.com/purva-patel/Node-Webapp-Skeleton.git
    ```
 
 2. **Navigate to the Project Directory:**
